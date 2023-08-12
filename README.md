@@ -7,3 +7,5 @@ are my own implementations.
 
 The projects are provided as Unity packages. In order to access them, open a Unity
 project and import these packages.
+
+The Project "Defend The World" was too big, so it was split into two parts.
